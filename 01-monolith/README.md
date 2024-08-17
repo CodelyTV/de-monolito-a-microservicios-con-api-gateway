@@ -7,7 +7,7 @@
 3. Move to the stage you want to test: `cd 00-monolith`
 4. Choose the option you prefer:
   * 🐘 With local PHP server: `php -S localhost:8081 index.php`
-  * 🐳 With Docker: `docker-compose up`
+  * 🐳 With Docker: `docker compose up`
 
 ## 🤹‍♂️ Available endpoints
 
